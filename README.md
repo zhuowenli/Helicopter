@@ -11,13 +11,13 @@ $ git clone https://github.com/zhuowenli/Helicopter.git
 进入Helicopter目录
 
 ```
-cd Helicopter
+$ cd Helicopter
 ```
 
 执行bower下载依赖资源：
 
 ```
-bower install
+$ bower install
 ```
 
 访问地址：
