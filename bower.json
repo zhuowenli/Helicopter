@@ -1,0 +1,21 @@
+{
+  "name": "Helicopter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zhuowenli/Helicopter",
+  "description": "Helicopter",
+  "authors": [
+    "zhuowenli"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sassCore": "~1.0.0"
+  }
+}
