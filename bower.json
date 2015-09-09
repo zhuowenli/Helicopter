@@ -1,6 +1,5 @@
 {
   "name": "Helicopter",
-  "version": "0.0.1",
   "homepage": "https://github.com/zhuowenli/Helicopter",
   "description": "Helicopter",
   "authors": [
@@ -16,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "sassCore": "~1.0.0"
+    "sassCore": "~1.0.0",
+    "jquery": "~2.1.0"
   }
 }
